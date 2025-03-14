@@ -1,1 +1,2 @@
+echo "Arquivo temporário" > caminho/para/pasta_vazia/arquivo.txt
 
